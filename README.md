@@ -54,22 +54,25 @@ Other skills: SQL, NumPy, Pandas, Scikit-learn, LangChain, LangGraph, LLM, API D
 ## 🚀 Projects
 
 - **Multi-Agent Reinforcement Learning (MultiCarRacing-v0)**  
-  Implemented multi-agent RL in OpenAI Gym using Python. Tuned rewards for optimization and used continuous control with pixel inputs.  
+  - Implemented multi-agent RL in OpenAI Gym using Python. Tuned rewards for optimization and used continuous control with pixel inputs.  
 
 - **Legal AI for Bankruptcy Cases**  
-  Built a backend legal assistant with Cohere API, FastAPI, LangGraph, and Streamlit. Used RAG and Pinecone for vector search, reducing research time by 90%. Served 50K+ daily requests.  
+  - Built a backend legal assistant with Cohere API, FastAPI, LangGraph, and Streamlit. Used RAG and Pinecone for vector search, reducing research time by 90%. Served 50K+ daily requests.  
   [Repo Link](https://github.com/snehvora/Legal-AI-For-Bankruptcy-Cases)
 
 - **Smart Inventory Bot**  
-  Natural language to SQL system using Cohere API, LangGraph, and Streamlit. Reduced query complexity by 100% with Redis caching.  
+  - Natural language to SQL system using Cohere API, LangGraph, and Streamlit. Reduced query complexity by 100% with Redis caching.  
   [Repo Link](https://github.com/snehvora/Smart-Inventory-Bot)
 
 - **WPInsight Automator**  
-  AI-based ETL pipeline with Selenium, LLM (pegasus-xsum), and Flask. Paraphrased and published articles to WordPress, improving efficiency by 70%.  
+  - Built an ETL pipeline to automate content workflows — extracting news articles from sources like Hindustan Times and NDTV, transforming them via AI-powered paraphrasing, and loading them into WordPress posts.<br>
+  - Automated WordPress admin tasks (create, update, delete posts) using Selenium, reducing manual effort and errors.<br>
+  - Deployed a paraphrasing API on DigitalOcean to ensure unique, plagiarism-free, and high-quality content.<br>
+  - Designed the system for scalability, enabling easy integration of new sources and minimal manual intervention for end-to-end automation.<br>
   [Repo Link](https://github.com/snehvora/WPInsight-Automator)
 
 - **Real Waste ML Classification**  
-  Analyzed datasets and implemented CNNs like VGG19, InceptionV3 using PyTorch. Evaluated with precision, recall, etc.  
+  - Analyzed datasets and implemented CNNs like VGG19, InceptionV3 using PyTorch. Evaluated with precision, recall, etc.  
 
 ## 📝 Publications
 
