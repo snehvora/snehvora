@@ -2,7 +2,7 @@
 
 I'm a Graduate Student in Computer Science (GPA: 3.9) at New Jersey Institute of Technology (NJIT), passionate about backend development, AI integration, and scalable ML solutions. With hands-on experience in building enterprise-grade applications, I excel in Python, FastAPI, PyTorch, and RESTful API design. I thrive in cross-cultural, cross-functional teams, translating business needs into efficient technical solutions. Currently seeking opportunities in Machine Learning Engineering, Backend Development, or AI Engineering.
 
-- 🌍 Based in Edison, NJ
+- 🌍 Based in Iselin, NJ
 - 📫 Reach me at: sneh.vora126@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sneh-vora-b35358192/) | [LeetCode](https://leetcode.com/snehvora/)
 
