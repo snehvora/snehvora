@@ -46,7 +46,8 @@ Other skills: SQL, NumPy, Pandas, Scikit-learn, LangChain, LangGraph, LLM, API D
 - IBM Certified Data Architect - Big Data  
 - IJISRT Author Certificate  
 - Algorithm 1 Badge - LeetCode  
-- Django Essential Training  
+- Django Essential Training - LinkedIn
+- React Essential Training - LinkedIn
 - Divyam Infotech Internship Completion Certificate  
 - BVM Infotech Pvt. Ltd. Internship Completion Certificate  
 - Wissenaire IIT Bhubaneswar – ML Course  
