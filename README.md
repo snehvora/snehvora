@@ -28,14 +28,25 @@ Other skills: SQL, NumPy, Pandas, Scikit-learn, LangChain, LangGraph, LLM, API D
 ## 💼 Experience
 
 - **Backend Developer Intern**  
-  BVM Infotech Pvt. Ltd., GJ, India  
+  BVM Infotech Pvt. Ltd., GJ, India <br> 
   January 2023 - April 2023  
   - Designed and deployed Flask-based REST APIs for high-traffic apps, improving response times by 35%.  
   - Integrated payment gateways, SMS APIs, and notifications.  
   - Optimized SQL queries and caching for scalability.
+ 
+- **Machine Learning Engineer (Part-time)**  
+  Aarav Solutions Pvt. Ltd., Iselin, NJ<br>
+  Aug 2021 – Jan 2023
+  - Designed and implemented ETL pipelines in Python using Pandas, SQLAlchemy, and AWS services (S3, Lambda, RDS) to automate data ingestion and preprocessing.  
+  - Performed data annotation, cleaning, and transformation to prepare high-quality datasets for training ML models.  
+  - Developed, trained, and fine-tuned supervised learning and deep learning models with scikit-learn and PyTorch.  
+  - Built and deployed RESTful APIs with Flask/FastAPI to serve model predictions and integrate with downstream applications.  
+  - Containerized pipelines using Docker and deployed on AWS (ECS, Lambda, EC2) for scalable production workflows.  
+  - Implemented monitoring and logging to track model performance and data quality in real-time.  
+
 
 - **Backend Developer Intern**  
-  Divyam Infotech Pvt. Ltd., GJ, India
+  Divyam Infotech Pvt. Ltd., GJ, India<br>
   June 2021 - July 2021  
   - Built Python data scraping pipelines for e-commerce price monitoring, reducing manual time by 90%.  
   - Enabled real-time pricing analysis, boosting client retention by 10%.  
