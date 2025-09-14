@@ -66,15 +66,15 @@ Other skills: SQL, NumPy, Pandas, Scikit-learn, LangChain, LangGraph, LLM, API D
 ## 🚀 Projects
 
 - **Multi-Agent Reinforcement Learning (MultiCarRacing-v0)**  
-  - Implemented multi-agent RL in OpenAI Gym using Python. Tuned rewards for optimization and used continuous control with pixel inputs.
+  - Implemented multi-agent RL in OpenAI Gym using Python. Tuned rewards for optimization and used continuous control with pixel inputs.<br>
   [Repo Link](https://github.com/snehvora/Multi-Car-Racing)
 
 - **Legal AI for Bankruptcy Cases**  
-  - Built a backend legal assistant with Cohere API, FastAPI, LangGraph, and Streamlit. Used RAG and Pinecone for vector search, reducing research time by 90%. Served 50K+ daily requests.  
+  - Built a backend legal assistant with Cohere API, FastAPI, LangGraph, and Streamlit. Used RAG and Pinecone for vector search, reducing research time by 90%. Served 50K+ daily requests.  <br>
   [Repo Link](https://github.com/snehvora/Legal-AI-For-Bankruptcy-Cases)
 
 - **Smart Inventory Bot**  
-  - Natural language to SQL system using Cohere API, LangGraph, and Streamlit. Reduced query complexity by 100% with Redis caching.  
+  - Natural language to SQL system using Cohere API, LangGraph, and Streamlit. Reduced query complexity by 100% with Redis caching.  <br>
   [Repo Link](https://github.com/snehvora/Smart-Inventory-Bot)
 
 - **WPInsight Automator**  
