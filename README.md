@@ -94,7 +94,5 @@ Other skills: SQL, NumPy, Pandas, Scikit-learn, LangChain, LangGraph, LLM, API D
   International Journal of Innovative Science and Research Technology (IJISRT), Vol. 7, Issue 11, Nov 2022.  
   Conducted sentiment analysis on Twitter data using Python's TextBlob library. Designed a pipeline for extraction, cleaning, and classification.
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehvora&theme=radical)
 
 Thanks for visiting! Feel free to connect or collaborate on exciting projects. 😊
