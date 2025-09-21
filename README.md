@@ -85,7 +85,8 @@ Other skills: SQL, NumPy, Pandas, Scikit-learn, LangChain, LangGraph, LLM, API D
   [Repo Link](https://github.com/snehvora/WPInsight-Automator)
 
 - **Real Waste ML Classification**  
-  - Analyzed datasets and implemented CNNs like VGG19, InceptionV3 using PyTorch. Evaluated with precision, recall, etc.  
+  - Analyzed datasets and implemented CNNs like VGG19, InceptionV3 using PyTorch. Evaluated with precision, recall, etc.<br>
+  [Repo Link](https://github.com/snehvora/Real-Waste-ML-Classification)
 
 ## 📝 Publications
 
