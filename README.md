@@ -1,99 +1,119 @@
-# Hi, I'm Sneh Vora 👋
+<div align="center">
 
-I'm a Graduate Student in Computer Science (GPA: 3.9) at New Jersey Institute of Technology (NJIT), passionate about backend development, AI integration, and scalable ML solutions. With hands-on experience in building enterprise-grade applications, I excel in Python, FastAPI, PyTorch, and RESTful API design. I thrive in cross-cultural, cross-functional teams, translating business needs into efficient technical solutions. Currently seeking opportunities in Machine Learning Engineering, Backend Development, or AI Engineering.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=200&section=header&text=Sneh%20Vora&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%7C%20Backend%20Dev&descAlignY=58&descColor=ffffff" />
 
-- 🌍 Based in Iselin, NJ
-- 📫 Reach me at: sneh.vora126@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sneh-vora-b35358192/) | [LeetCode](https://leetcode.com/snehvora/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+GenAI+Pipelines;RAG+%7C+LangChain+%7C+Azure+OpenAI+%7C+FAISS;Fraud+Detection+%7C+XGBoost+%7C+MLflow;M.S.+CS+%40+NJIT+%E2%80%A2+GPA%3A+3.9;Open+to+ML+%2F+AI+%2F+Backend+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<br/>
 
-## 🛠️ Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneh-vora-b35358192/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehvora)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=vercel&logoColor=white)](https://www.snehvora.me/about)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/snehvora/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sneh.vora127@gmail.com)
 
-![My Skills](https://skillicons.dev/icons?i=py,js,cpp,php,flask,fastapi,tensorflow,pytorch,postgres,mysql,mongodb,redis,docker,git,nodejs,nextjs,express,react,notion,streamlit)
+</div>
 
-Other skills: SQL, NumPy, Pandas, Scikit-learn, LangChain, LangGraph, LLM, API Development, Database Optimization, Web Scraping, Microservices, System Design, Interpersonal Skills, Project Management.
+---
 
-## 🎓 Education
+## 🧠 About Me
 
-- **M.S. in Computer Science**  
-  New Jersey Institute of Technology (NJIT), Newark, NJ  
-  Expected Graduation: December 2025  
-  Relevant Coursework: Reinforcement Learning, Machine Learning, Deep Learning, Data Structures & Algorithms, Data Management Systems Design, Operating Systems Design, Introduction to Big Data, Cloud Computing, Web Systems Development.
+```python
+class SnehVora:
+    role       = "AI/ML Engineer @ Molina Healthcare USA"
+    education  = "M.S. Computer Science, NJIT (GPA: 3.9)"
+    location   = "Iselin, NJ 🌍"
+    experience = "4+ years"
+    focus      = ["GenAI", "RAG Pipelines", "Fraud Detection", "LLM Evaluation"]
+    looking_for = "ML Engineer · AI Engineer · Backend Engineer"
+```
 
-- **B.Tech. in Computer Science & Engineering**  
-  Charotar University of Science and Technology, India  
-  Graduated: April 2023  
-  Relevant Coursework: Data Science & Analytics, Machine Learning, Artificial Intelligence, Cryptography & Network Security, Java Programming, Object-Oriented Programming with C++, Database Management Systems, Design & Analysis of Algorithms, Computer Networks.
+---
 
 ## 💼 Experience
 
-- **Backend Developer Intern**  
-  BVM Infotech Pvt. Ltd., GJ, India <br> 
-  January 2023 - April 2023  
-  - Designed and deployed Flask-based REST APIs for high-traffic apps, improving response times by 35%.  
-  - Integrated payment gateways, SMS APIs, and notifications.  
-  - Optimized SQL queries and caching for scalability.
- 
-- **Machine Learning Engineer (Part-time)**  
-  Aarav Solutions Pvt. Ltd., Iselin, NJ<br>
-  Aug 2021 – Jan 2023
-  - Designed and implemented ETL pipelines in Python using Pandas, SQLAlchemy, and AWS services (S3, Lambda, RDS) to automate data ingestion and preprocessing.  
-  - Performed data annotation, cleaning, and transformation to prepare high-quality datasets for training ML models.  
-  - Developed, trained, and fine-tuned supervised learning and deep learning models with scikit-learn and PyTorch.  
-  - Built and deployed RESTful APIs with Flask/FastAPI to serve model predictions and integrate with downstream applications.  
-  - Containerized pipelines using Docker and deployed on AWS (ECS, Lambda, EC2) for scalable production workflows.  
-  - Implemented monitoring and logging to track model performance and data quality in real-time.  
+**🏥 AI/ML Engineer – Gen AI** &nbsp;·&nbsp; Molina Healthcare USA &nbsp;·&nbsp; `Jan 2025 – Present`
+- Built a **RAG-based GenAI assistant** using LangChain + Azure OpenAI + Azure AI Search → reduced manual lookup time **30%**
+- Ingested and chunked **8,000+ healthcare policy pages** via PyMuPDF pipelines into Azure Blob Storage
+- FAISS embedding retrieval + metadata filters improved document retrieval accuracy **22%**
+- Applied PHI masking, RBAC controls, and guardrails for **HIPAA-aligned** GenAI usage
 
+**🏦 Machine Learning Engineer** &nbsp;·&nbsp; Accenture India &nbsp;·&nbsp; `Jun 2021 – Nov 2023`
+- Fraud detection system analyzing **1M+ BFSI transactions** — XGBoost achieving **~0.86 ROC-AUC**
+- Engineered **40+ fraud-risk features**; Isolation Forest anomaly detection; SMOTE improved recall **~20%**
+- Batch scoring automation reduced manual analysis effort **~30%**
 
-- **Backend Developer Intern**  
-  Divyam Infotech Pvt. Ltd., GJ, India<br>
-  June 2021 - July 2021  
-  - Built Python data scraping pipelines for e-commerce price monitoring, reducing manual time by 90%.  
-  - Enabled real-time pricing analysis, boosting client retention by 10%.  
-  - Collaborated on data accuracy and API integrations.
+---
 
-## 🏆 Certificates
+## 🛠️ Tech Stack
 
-- IBM Certified Data Architect - Big Data  
-- IJISRT Author Certificate  
-- Algorithm 1 Badge - LeetCode  
-- Django Essential Training - LinkedIn
-- React Essential Training - LinkedIn
-- Divyam Infotech Internship Completion Certificate  
-- BVM Infotech Pvt. Ltd. Internship Completion Certificate  
-- Wissenaire IIT Bhubaneswar – ML Course  
+**GenAI & LLM**
 
-## 🚀 Projects
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-534AB7?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1D9E75?style=flat-square&logoColor=white)
 
-- **Multi-Agent Reinforcement Learning (MultiCarRacing-v0)**  
-  - Implemented multi-agent RL in OpenAI Gym using Python. Tuned rewards for optimization and used continuous control with pixel inputs.<br>
-  [Repo Link](https://github.com/snehvora/Multi-Car-Racing)
+**ML / DL**
 
-- **Legal AI for Bankruptcy Cases**  
-  - Built a backend legal assistant with Cohere API, FastAPI, LangGraph, and Streamlit. Used RAG and Pinecone for vector search, reducing research time by 90%. Served 50K+ daily requests.  <br>
-  [Repo Link](https://github.com/snehvora/Legal-AI-For-Bankruptcy-Cases)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-- **Smart Inventory Bot**  
-  - Natural language to SQL system using Cohere API, LangGraph, and Streamlit. Reduced query complexity by 100% with Redis caching.  <br>
-  [Repo Link](https://github.com/snehvora/Smart-Inventory-Bot)
+**Backend & Cloud**
 
-- **WPInsight Automator**  
-  - Built an ETL pipeline to automate content workflows — extracting news articles from sources like Hindustan Times and NDTV, transforming them via AI-powered paraphrasing, and loading them into WordPress posts.<br>
-  - Automated WordPress admin tasks (create, update, delete posts) using Selenium, reducing manual effort and errors.<br>
-  - Deployed a paraphrasing API on DigitalOcean to ensure unique, plagiarism-free, and high-quality content.<br>
-  - Designed the system for scalability, enabling easy integration of new sources and minimal manual intervention for end-to-end automation.<br>
-  [Repo Link](https://github.com/snehvora/WPInsight-Automator)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-- **Real Waste ML Classification**  
-  - Analyzed datasets and implemented CNNs like VGG19, InceptionV3 using PyTorch. Evaluated with precision, recall, etc.<br>
-  [Repo Link](https://github.com/snehvora/Real-Waste-ML-Classification)
+---
 
-## 📝 Publications
+## 🚀 Featured Projects
 
-- **Twitter Sentiment Analysis with TextBlob**  
-  Sneh Vora, Kishan Chanchad, Nevil Gajera  
-  International Journal of Innovative Science and Research Technology (IJISRT), Vol. 7, Issue 11, Nov 2022.  
-  Conducted sentiment analysis on Twitter data using Python's TextBlob library. Designed a pipeline for extraction, cleaning, and classification.
+| Project | Stack | Highlight |
+|---|---|---|
+| [**Legal AI Assistant**](https://github.com/snehvora/Legal-AI-For-Bankruptcy-Cases) | LangChain · FastAPI · Pinecone · RAG | 90% faster research · 50K+ daily requests |
+| [**Smart Inventory Bot**](https://github.com/snehvora/Smart-Inventory-Bot) | LangGraph · SQLite · Redis · Streamlit | Natural language → SQL · 100% query complexity reduction |
+| [**Multi-Agent RL**](https://github.com/snehvora/Multi-Car-Racing) | PyTorch · OpenAI Gym | Continuous control with pixel inputs |
+| [**WPInsight Automator**](https://github.com/snehvora/WPInsight-Automator) | Python · Selenium · ETL · DigitalOcean | End-to-end content pipeline automation |
+| [**Waste ML Classifier**](https://github.com/snehvora/Real-Waste-ML-Classification) | PyTorch · VGG19 · InceptionV3 | CNN transfer learning for waste classification |
 
+---
 
-Thanks for visiting! Feel free to connect or collaborate on exciting projects. 😊
+## 🎓 Education & Certifications
+
+🎓 **M.S. Computer Science** — New Jersey Institute of Technology (NJIT) · GPA: 3.9 · *Dec 2025*
+
+🎓 **B.Tech Computer Science** — Charotar University of Science and Technology · GPA: 3.36
+
+📜 IBM Certified Data Architect – Big Data &nbsp;|&nbsp; ML Course – Wissenaire, IIT Bhubaneswar
+
+---
+
+## 📝 Publication
+
+**Twitter Sentiment Analysis with TextBlob** — IJISRT, Vol. 7, Issue 11, Nov 2022  
+Designed a pipeline for Twitter data extraction, cleaning, and sentiment classification using Python's TextBlob.
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=snehvora&color=534AB7&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=120&section=footer&animation=fadeIn" />
+
+</div>
