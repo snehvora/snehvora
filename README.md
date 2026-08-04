@@ -32,6 +32,7 @@ class SnehVora:
 
 ## 💼 Experience
 
+<!--
 **🏥 AI/ML Engineer – Gen AI** &nbsp;·&nbsp; Molina Healthcare USA &nbsp;·&nbsp; `Jan 2025 – Present`
 - Built a **RAG-based GenAI assistant** using LangChain + Azure OpenAI + Azure AI Search → reduced manual lookup time **30%**
 - Ingested and chunked **8,000+ healthcare policy pages** via PyMuPDF pipelines into Azure Blob Storage
@@ -42,7 +43,43 @@ class SnehVora:
 - Fraud detection system analyzing **1M+ BFSI transactions** — XGBoost achieving **~0.86 ROC-AUC**
 - Engineered **40+ fraud-risk features**; Isolation Forest anomaly detection; SMOTE improved recall **~20%**
 - Batch scoring automation reduced manual analysis effort **~30%**
+-->
 
+## Experience
+
+### BVM Infotech Pvt. Ltd. | Surat, India
+**Backend Developer Intern**  
+*Jan 2023 – Apr 2023*
+
+- Analyzed business requirements and translated functional needs into backend APIs, database designs, and technical specifications for multiple web applications.
+- Developed backend applications using Java Spring Boot, Flask, and PostgreSQL while optimizing data models and SQL queries for efficient data retrieval and reporting.
+- Integrated third-party services including payment gateways, SMS APIs, and notification systems, documenting data flows and troubleshooting integration issues.
+- Collaborated with developers and stakeholders throughout the SDLC, validating APIs using Postman, maintaining technical documentation, and supporting AWS-based deployments.
+
+---
+
+### Aarav Solutions Pvt. Ltd. | Ahmedabad, India
+**Machine Learning Engineer**  
+*Aug 2021 – Jan 2023*
+
+- Designed automated ETL pipelines using Python (Pandas, SQLAlchemy), SQL, and AWS services (S3, Lambda, RDS) to streamline data collection, transformation, and reporting workflows.
+- Extracted and analyzed large datasets using SQL and Python to prepare structured data for machine learning models and operational reporting.
+- Collaborated with cross-functional teams to understand business requirements, document data processing workflows, and develop scalable REST APIs using Flask and FastAPI.
+- Monitored production ML pipelines, implemented logging and performance monitoring, and resolved data quality issues to ensure reliable automation processes.
+- Containerized applications using Docker and deployed solutions on AWS (ECS, EC2, Lambda), improving deployment consistency and operational efficiency.
+- Built predictive models using scikit-learn and PyTorch while documenting experimentation results, model performance, and deployment procedures for engineering teams.
+
+---
+
+### Divyam Infotech Pvt. Ltd. | Ahmedabad, India
+**Backend Developer Intern**  
+*Jun 2021 – Jul 2021*
+
+- Automated data scraping and database synchronization workflows, reducing manual operational effort by 90%.
+- Queried and managed PostgreSQL databases using SQL, stored procedures, and JDBC to support application functionality and data validation.
+- Participated in the complete SDLC by developing Spring Boot applications, documenting system design with UML diagrams, and assisting in process documentation.
+- Performed competitive data analysis across multiple e-commerce platforms and generated insights that improved customer engagement by 30%.
+- Contributed to testing, debugging, and technical documentation by creating test cases and maintaining project documentation for future development.
 ---
 
 ## 🛠️ Tech Stack
