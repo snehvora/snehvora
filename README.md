@@ -32,7 +32,7 @@ class SnehVora:
 
 ## 💼 Experience
 
-<!--
+
 **🏥 AI/ML Engineer – Gen AI** &nbsp;·&nbsp; Molina Healthcare USA &nbsp;·&nbsp; `Jan 2025 – Present`
 - Built a **RAG-based GenAI assistant** using LangChain + Azure OpenAI + Azure AI Search → reduced manual lookup time **30%**
 - Ingested and chunked **8,000+ healthcare policy pages** via PyMuPDF pipelines into Azure Blob Storage
@@ -43,8 +43,8 @@ class SnehVora:
 - Fraud detection system analyzing **1M+ BFSI transactions** — XGBoost achieving **~0.86 ROC-AUC**
 - Engineered **40+ fraud-risk features**; Isolation Forest anomaly detection; SMOTE improved recall **~20%**
 - Batch scoring automation reduced manual analysis effort **~30%**
--->
 
+<!--
 ## Experience
 
 ### BVM Infotech Pvt. Ltd. | Surat, India
@@ -81,7 +81,7 @@ class SnehVora:
 - Performed competitive data analysis across multiple e-commerce platforms and generated insights that improved customer engagement by 30%.
 - Contributed to testing, debugging, and technical documentation by creating test cases and maintaining project documentation for future development.
 ---
-
+-->
 ## 🛠️ Tech Stack
 
 **GenAI & LLM**
